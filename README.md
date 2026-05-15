@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm SAYOOJRAM S 👋
 
-<!--
-**sayuuj899-collab/sayuuj899-collab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student and web developer looking for internship and employment opportunities.
 
-Here are some ideas to get you started:
+## 🚀 Skills
+- **Languages & Frameworks:** Python (Flask, Django), HTML, CSS, JavaScript
+- **Interests:** Web Development, AI, API Integration, Interactive UI Systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projects
+- **Women's Health App** - [View on GitHub](https://github.com/sayuuj899-collab/WOMENS-HEALTH-APP-PYTHON-FLASK)
+- **MediPredict - Clinical Support System** - [View on GitHub](https://github.com/sayuuj899-collab/MEDIPREDICT-CLINICAL-SUPPORT-SYSTEM-)
+
+## 📊 GitHub Stats
+<!-- Add your GitHub stats badges here. For example: -->
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sayuuj899-collab&show_icons=true&theme=radical) -->
+<!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sayuuj899-collab&layout=compact&theme=radical) -->
+
+*(Note: Stats badges can be added once you have contributions. You can uncomment and customize the above lines.)*
+
+## 📫 Contact
+Feel free to reach out for collaborations or opportunities!
+
+---
+
+⭐ From [sayuuj899-collab](https://github.com/sayuuj899-collab)
